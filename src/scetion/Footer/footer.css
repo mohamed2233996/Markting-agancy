@@ -1,0 +1,26 @@
+footer{
+    background-color: var(--main-color);
+    color: var(--light-color);
+}
+
+
+.footer-titel{
+    font-size: 36px;
+    margin-bottom: 30px;
+}
+
+.color-links-footer{
+    color: var(--light-color) !important;
+    width: fit-content;
+}
+
+.color-links-footer:hover{
+    color: rgb(177, 177, 177) !important;
+}
+
+.footer-brand{
+    color: var(--light-color);
+    font-size: 52px;
+    font-weight: 800;
+    padding: 10px;
+}

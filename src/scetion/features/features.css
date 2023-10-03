@@ -1,0 +1,9 @@
+.Features{
+    background: #ededed;
+}
+
+.features-card{
+    background-color: white;
+    box-shadow: 0px 0px 32px 0px rgb(63 73 123 / 8%);
+    padding: 25px 15px;
+}

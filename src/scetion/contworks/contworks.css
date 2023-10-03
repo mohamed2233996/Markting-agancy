@@ -1,0 +1,10 @@
+
+.contworks{
+    background-color: var(--main-color);
+}
+
+.cont-text{
+    font-size: 50px;
+    font-weight: 600;
+    color: var(--light-color);
+}

@@ -1,0 +1,15 @@
+.comment-inputs{
+    padding-top: 50px;
+}
+
+
+.input-cont label{
+    font-size: 22px;
+    margin-bottom: 7px;
+}
+
+.input-cont input, .input-cont textarea{
+    font-size: 25px;
+    width: 100%;
+    border-color: var(--main-color);
+}

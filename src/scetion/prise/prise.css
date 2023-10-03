@@ -1,0 +1,72 @@
+.prise{
+    background-color: #F0F6FF;
+}
+
+.prise-card{
+    background-color: #ffffff;
+    text-align: center;
+    padding: 18px 18px 40px;
+    box-shadow: 0px 0px 32px 0px rgba(63, 73, 123, 0.09);
+    border-radius: var(--border-radius);
+}
+
+.mark{
+    color: var(--light-color) !important;
+    width: 80px;
+    height: 29px;
+    border-bottom-right-radius: var(--border-radius);
+    border-top-right-radius: var(--border-radius);
+}
+
+.prise-top-text{
+    padding-bottom: 15px;
+    border-bottom: 1px solid #dddddd;
+}
+
+.prise-nm{
+    background-color: inherit !important;
+    display: block;
+    font-size: 68px;
+    padding: 18px 0 0;
+    font-weight: 500;
+}
+
+.prise-list{
+    list-style: none;
+    padding: 0;
+    font-size: 20px;
+}
+
+.prise-list li{
+margin-top: 12px;
+}
+
+.prise-btn{
+    text-decoration: none;
+    color: var(--light-color) !important;
+    padding: 14px 24px;
+    border: none;
+    border-radius: var(--border-radius);
+    box-shadow: 0px 0px 15px 0px rgba(60, 93, 151, 0.19);
+    font-weight: 700;
+}
+
+.prise-btn:hover{
+    color: var(--light-color);
+}
+
+
+.card-color-1{
+    color: var(--my-color1);
+    background-color: var(--my-color1);
+}
+
+.card-color-2{
+    color: var(--my-color2);
+    background-color: var(--my-color2);
+}
+
+.card-color-3{
+    color: var(--my-color3);
+    background-color: var(--my-color3);
+}

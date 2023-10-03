@@ -1,0 +1,10 @@
+.PageTitel{
+    background-color: var(--main-color);
+    padding: 55px 0;
+}
+
+.page-titel{
+    text-align: center;
+    color: var(--light-color);
+    font-weight: 700;
+}

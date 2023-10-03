@@ -1,0 +1,38 @@
+.toggle-card{
+    background-color: #fcfcfc;
+    box-shadow: 0px 0px 32px 0px rgb(63 73 123 / 8%);
+    padding: 20px;
+}
+
+.toggle{
+    cursor: pointer;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    align-items: center;
+    justify-content: space-between;
+    color: var(--mdb-body-color);
+    font-size: 20px;
+    font-weight: 500;
+}
+
+.Question-icon{
+    font-size: 30px;
+}
+
+
+.card-body{
+    background-color: #fcfcfc !important;
+    box-shadow: none;
+    font-size: 18px;
+}
+
+.collapse{
+    transition: 0.6s all;
+}
+
+.rotate-coloring{
+    transform: rotate(90deg);  
+    color: var(--main-color);
+}
+

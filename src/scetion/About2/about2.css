@@ -1,0 +1,45 @@
+.about2{
+    background-color: #F0F6FF;
+}
+
+.about-item{
+    font-size: 17px;
+    display: flex;
+    flex-wrap: nowrap;
+}
+
+.about-item-icon{
+    color: var(--main-color);
+    font-size: 27px;
+    padding-left: 6px;
+}
+
+.video-link{
+    display: flex;
+    align-items: center;
+    flex-wrap: nowrap;
+    flex-direction: row;
+}
+
+
+.video-a{
+    background: var(--main-color);
+    color: var(--light-color);
+    width: 75px;
+    height: 75px;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 35px;
+}
+
+.video-a:hover{
+    color: var(--light-color);
+    background: #063c9bfa;
+    box-shadow: 0 0 12px 0px black;
+}
+
+
+
+

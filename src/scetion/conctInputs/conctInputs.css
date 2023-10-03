@@ -1,0 +1,18 @@
+.conctInputs{
+    background-color: #F0F6FF;
+}
+
+
+.conctinpouts-form{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
+}
+
+.conctinpouts-form input , .conctinpouts-form textarea{
+    margin-bottom: 15px;
+    font-size: 20px;
+    padding: 15px;
+    border-color: var(--main-color);
+    border-radius: 10px;
+}

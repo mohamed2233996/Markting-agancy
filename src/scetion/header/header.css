@@ -1,0 +1,42 @@
+header{
+    background-color: var(--light-color);
+}
+
+.navbar-brand{
+    color: var(--main-color) !important;
+    font-size: 28px;
+    font-weight: 800;
+}
+
+.nav-link{
+    color: black !important;
+    position: relative;
+    font-size: 20px !important;
+    font-weight: 700;
+}
+
+.nav-link::before{
+    content: '';
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    background-color: var(--main-color);
+    width: 100%;
+    height: 3px;
+    display: none;
+}
+
+.nav-link:hover,
+.nav-link:active{
+    color: var(--main-color) !important;
+}
+
+.nav-link:hover:before,
+.nav-link:active:before{
+    display: block;
+}
+
+.navbar-toggler:hover {
+    color: var(--main-color);
+}
+
