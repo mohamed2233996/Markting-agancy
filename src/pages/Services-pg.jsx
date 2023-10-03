@@ -17,6 +17,7 @@ const ServicesPg = () => {
                 <Services/>
                 <Email titel="هل أنت مستعد للنمو"
                     titel2="تحصل على عرض سعر"
+                    placeholder="البريد الالكتروني"
                     doing="ارسال"
                 />
                 <About />
