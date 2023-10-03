@@ -1,6 +1,6 @@
 .intro-scetion{
     position:relative;
-    height: calc(100vh - 73px);
+    min-height: calc(100vh - 73px);
 }
 
 .over-back{
